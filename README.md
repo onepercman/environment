@@ -41,5 +41,12 @@ brew install nvm
 # NVM path
 export NVM_DIR=$(brew --prefix nvm)
 [ -s $NVM_DIR/nvm.sh ] && . $NVM_DIR/nvm.sh
+```
 
+## Python alias
+
+```zsh
+# Python alias
+alias python='python3'
+alias pip='pip3'
 ```
